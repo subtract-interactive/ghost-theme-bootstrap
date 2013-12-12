@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ghost Bootstrap Theme
 
 A base for making awesome Ghost Themes
@@ -32,9 +31,3 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
 NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-=======
-ghost-theme-bootstrap
-=====================
-
-This is my bootstrap for creating awesome Ghost themes. Feel free to clone and modify. More info in the Ghost Docs http://docs.ghost.org/themes/.
->>>>>>> 313b1b4aa7c30f00e0b38e0cdf60c6c68cf73a74
