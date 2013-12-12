@@ -1,0 +1,21 @@
+{
+  "name": "Ghost Bootstrap",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "Mark Stewart <mark@subtract.io>"
+  ],
+  "description": "A Bootstrap Theme for making Ghost Blog Themes",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sass-bootstrap": "~3.0.2"
+  }
+}
